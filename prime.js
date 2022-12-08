@@ -7,7 +7,7 @@ for(let i = 2; i < num; i++) {
 	}
 }
 if(isPrime) {
-	console.log(num, "is not Prime");
+	console.log(num, "is Prime");
 }
 else {
 	console.log(num, "is not Prime");
